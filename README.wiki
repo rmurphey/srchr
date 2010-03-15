@@ -1,0 +1,2 @@
+= srchr =
+srchr is a crowdsourced exercise in collecting JavaScript wisdom. For more information, visit http://blog.rebeccamurphey.com/2010/03/14/crowdsourcing-javascript-wisdom/.
